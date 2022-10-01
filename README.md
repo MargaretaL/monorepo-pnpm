@@ -1,6 +1,6 @@
 # getting started
 
-## followed guide: https://www.brockherion.dev/blog/posts/setting-up-a-monorepo-with-pnpm-and-typescript/ ,except for vite, this uses webpack but it overrides webpack for Typescript to work with craco
+followed guide: https://www.brockherion.dev/blog/posts/setting-up-a-monorepo-with-pnpm-and-typescript/ ,except for vite, this uses webpack but it overrides webpack for Typescript to work with craco
 
 initiate git
 
