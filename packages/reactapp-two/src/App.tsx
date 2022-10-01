@@ -17,8 +17,8 @@ function App() {
   return (
     <div className="App">
       <h1>React App 2</h1>
-      <button onClick={onGreetClicked}>Greet Admin!</button>
-      <Button />
+      {/* @ts-expect-error */}
+      <Button onClick={onGreetClicked} />
       <Suspense fallback={<div>Loading...</div>}></Suspense>
     </div>
   );
