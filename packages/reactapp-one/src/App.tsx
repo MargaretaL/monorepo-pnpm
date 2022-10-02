@@ -15,9 +15,8 @@ function App() {
   return (
     <div className="App">
       <h1>React App 1</h1>
+      <h2>Welcome!</h2>
       <button onClick={onGreetClicked}>Greet Admin!</button>
-      <div>This is a new div!</div>
-      <p>Hi there!</p>
     </div>
   );
 }
